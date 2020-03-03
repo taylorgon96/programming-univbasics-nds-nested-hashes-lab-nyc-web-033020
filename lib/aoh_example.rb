@@ -13,7 +13,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  literal_aoh = Array.sort.new
+  literal_aoh = Array.new.sort
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
