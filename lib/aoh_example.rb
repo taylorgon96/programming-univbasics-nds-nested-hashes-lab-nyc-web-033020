@@ -13,7 +13,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G = Array.new
+  (DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G) = Array.new
  
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
