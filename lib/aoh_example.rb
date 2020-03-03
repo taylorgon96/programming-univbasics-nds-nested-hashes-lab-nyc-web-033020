@@ -14,11 +14,11 @@ end
 
 def literal_aoh
   literal_aoh = 
-  { name:  "Don Gately", occupation: "Live-in Staff" }
+  [{ name:  "Don Gately", occupation: "Live-in Staff" }
   { name:  "Joelle van Dyne", occupation: "Radio Personality" }
   { name:  "Pat Monteseian", occupation: "Staff" }
   { name:  "Kate Gompert", occupation: "None" }
-  { name:  "Bruce Green", occupation: "Fan of Mildred" }
+  { name:  "Bruce Green", occupation: "Fan of Mildred" }]
   
   literal_aoh = Array.new
   # Using Array literal syntax only, build a nested array that uses the data in
