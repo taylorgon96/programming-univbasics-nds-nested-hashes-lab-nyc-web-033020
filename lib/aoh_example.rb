@@ -18,7 +18,7 @@ def literal_aoh
 { name:  "Joelle van Dyne", occupation: "Radio Personality" }
 { name:  "Pat Monteseian", occupation: "Staff" }
 { name:  "Kate Gompert", occupation: "None" }
-{ name:  "Bruce Green", occupation: "Fan of Mildred" } = Array.new
+{ name:  "Bruce Green", occupation: "Fan of Mildred" }= Array.new
 
  
   # Using Array literal syntax only, build a nested array that uses the data in
